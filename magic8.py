@@ -1,4 +1,4 @@
-# Name: Jazil Choudhry
+# Name: Saleem Sediqi
 # Prog Purpose: This Magic 8-Ball code uses a Python tuple since the
 # used does not have the ability to change the 8-Ball answers.
 # However, the program could have used a Python list instead of a tuple.
