@@ -1,4 +1,4 @@
-# Name: Jazil Choudhry
+# Name: Saleem Sediqi
 # Prog Purpose: This program demonstrates how to manipulate a list, including:
 # finding number of items in the list, sorting the list, adding/removing items,
 # copying a list of items into another list, and changing the data in the list.
