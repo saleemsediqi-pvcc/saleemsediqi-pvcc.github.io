@@ -1,4 +1,4 @@
-# Name: Jazil Choudhry
+# Name: Saleem Sediqi
 import datetime 
 # Prices
 pizza_prices = {'S': 9.99, 'M': 12.99, 'L': 17.99, 'X': 21.99}
