@@ -1,4 +1,4 @@
-# Name: Jazil Choudhry
+# Name: Saleem Sediqi
 # Program Purpose: This program uses lists to find the personal property tax for vehicles in Charlottesville
 # and produces a report which aisplays all data and the total tax due
 
