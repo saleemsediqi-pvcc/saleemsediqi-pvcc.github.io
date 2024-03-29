@@ -1,4 +1,4 @@
-# Name: Jazil Choudhry
+# Name: Saleem Sediqi
 # Program purpose: This program finds the cost of meals at branch barbeque buffet
 # Price for an adult meal: $19.95
 # Price for a child meal: $11.95
