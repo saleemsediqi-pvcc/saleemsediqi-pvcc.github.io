@@ -1,4 +1,4 @@
-# Name: Jazil Choudhry
+# Name: Saleem Sediqi
 # Prog Purpose: To show the personal property tax in Charlottesville
 import datetime
 
