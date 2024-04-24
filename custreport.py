@@ -1,4 +1,4 @@
-# Name: Jazil Choudhry
+# Name: saleem sediqi
 #Prog Purpose: Read in a list of customers and display a report that will
 # increase the amount they owe by 10%
 
