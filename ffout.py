@@ -1,4 +1,4 @@
-# Name: Jazil Choudhry
+# Name: Saleem Sediqi
 # Prog Purpose: This program creates a payroll report
 
 import datetime
