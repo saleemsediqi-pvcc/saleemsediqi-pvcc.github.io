@@ -49,7 +49,7 @@ def save_to_html():
     dollarformat = '8,.2f'
     with open(outfile, 'w') as f:
         f.write('<html>\n<head>\n<style>\n')
-        f.write('body { background-image: url("tuition.png"); color:16171a #; font-family: Arial, sans-serif; }\n')
+        f.write('body { background-image: url("tuition.jpeg"); color:16171a #; font-family: Arial, sans-serif; }\n')
         f.write('table { border-collapse: collapse; width: 80%; margin: 20px auto; background-color: #e6e6fa; }\n')  # Light Purple
         f.write('th, td { border: 1px solid #ffffff; padding: 8px; text-align: left; }\n')
         f.write('</style>\n</head>\n<body>\n')
