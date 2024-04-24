@@ -1,4 +1,4 @@
-# Name: Jazil Choudhry
+# Name: saleem sediqi
 # Prog Purpose: This program reads in a hotel data file, performs calculations, and creates an HTML file for the results
 
 import datetime
@@ -79,7 +79,7 @@ def create_output_html():
     td = '</td><td>'
     endtr = '</td></tr>\n'
 
-    f.write('<style> body { background-image: url("emerald.png"); } table { background-color: seagreen; color: black; margin: 0 auto; } td{text-align: right} </style>\n')  
+    f.write('<style> body { background-image: url("emerald.jpeg"); } table { background-color: seagreen; color: black; margin: 0 auto; } td{text-align: right} </style>\n')  
 
     
     f.write('<table border="1" style="margin: 0 auto;">\n')
