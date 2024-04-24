@@ -1,4 +1,4 @@
-# Name: Jazil Choudhry
+# Name: Saleem Sediqi
 # Prog Purpose: This program reads in a hotel data file, performs calculations, and creates an HTML file for the results
 
 import datetime
