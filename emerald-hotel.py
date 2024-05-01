@@ -79,7 +79,7 @@ def create_output_html():
     td = '</td><td>'
     endtr = '</td></tr>\n'
 
-    f.write('<style> body { background-image: url("emerald.png"); } table { background-color: lighblue; color: black; margin: 0 auto; } td{text-align: right} </style>\n')  
+    f.write('<style> body { background-image: url("emerald.png"); } table { background-color: blue; color: black; margin: 0 auto; } td{text-align: right} </style>\n')  
 
     
     f.write('<table border="1" style="margin: 0 auto;">\n')
